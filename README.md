@@ -1,8 +1,8 @@
 # typescript-project-with-unit-test
 
 
-#setup
+#setup : 
 npm i 
 
-#run test
+#run test : 
 npm run test
